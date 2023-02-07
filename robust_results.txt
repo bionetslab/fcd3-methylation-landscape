@@ -1,0 +1,33 @@
+Workflow:
+
+	– Download human annotated PPI network from IID (http://iid.ophid.utoronto.ca/).
+	– Keep only experimentally confirmed PPIs where both interaction partners are expressed in brain tissue.
+	– From lists of differentially methylated genes, discard all genes not contained as nodes in filtered PPI network.
+	– Run ROBUST-Web (https://robust-web.net/) with different hyper-parameters to uncover candidate disease mechanisms.
+	– Results can be interactively explored online (functional enrichment via g:Profiler, tissue expression, visualization of targeting drugs, etc.).
+
+Hyper-parameters:
+	– tau: Explorativeness vs. robustness. The larger tau, the more confidence is required for the algorithm to include a connector node into the results. So results for larger values of tau are much sparser.
+	– bias_correction: Correct for study bias in PPI networks. If set to bait_usage, inclusion of proteins used as baits in many AP-MS / Y2H experiments is discouraged.
+	– All other hyper-parameters were left at defaults.
+
+Scar
+
+	- tau=0.1, bias_correction=bait_usage: https://robust-web.net/saved_results/23091
+	- tau=0.9, bias_correction=bait_usage: https://robust-web.net/saved_results/83167
+	– tau=0.1, bias_correction=none: https://robust-web.net/saved_results/71134
+	- tau=0.9, bias_correction=none: https://robust-web.net/saved_results/21305
+	
+RE
+
+	- tau=0.1, bias_correction=bait_usage: https://robust-web.net/saved_results/30770
+	- tau=0.9, bias_correction=bait_usage: https://robust-web.net/saved_results/39358
+	- tau=0.1, bias_correction=none: https://robust-web.net/saved_results/50008
+	- tau=0.9, bias_correction=none: https://robust-web.net/saved_results/76662
+	
+L4M
+
+	- tau=0.1, bias_correction=bait_usage: https://robust-web.net/saved_results/91247
+	- tau=0.9, bias_correction=bait_usage: https://robust-web.net/saved_results/89334
+	- tau=0.1, bias_correction=none: https://robust-web.net/saved_results/63132
+	- tau=0.9, bias_correction=none: https://robust-web.net/saved_results/27489
