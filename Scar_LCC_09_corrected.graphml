@@ -1,0 +1,1559 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d9" for="edge" attr.name="group" attr.type="string"/>
+<key id="d8" for="node" attr.name="isSeed" attr.type="boolean"/>
+<key id="d7" for="node" attr.name="label" attr.type="string"/>
+<key id="d6" for="node" attr.name="ensg" attr.type="string"/>
+<key id="d5" for="node" attr.name="entrez" attr.type="string"/>
+<key id="d4" for="node" attr.name="protein_name" attr.type="string"/>
+<key id="d3" for="node" attr.name="symbol" attr.type="string"/>
+<key id="d2" for="node" attr.name="uniprot" attr.type="string"/>
+<key id="d1" for="node" attr.name="drugstone_id" attr.type="string"/>
+<key id="d0" for="node" attr.name="id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="RPS27A">
+  <data key="d0">RPS27A</data>
+  <data key="d1">["p24330"]</data>
+  <data key="d2">["P62979"]</data>
+  <data key="d3">["RPS27A"]</data>
+  <data key="d4">["ubiquitin-40S ribosomal protein S27a"]</data>
+  <data key="d5">["6233"]</data>
+  <data key="d6">["ENSG00000143947"]</data>
+  <data key="d7">RPS27A</data>
+  <data key="d8">True</data>
+</node>
+<node id="TXNL4B">
+  <data key="d0">TXNL4B</data>
+  <data key="d1">["p30125"]</data>
+  <data key="d2">["Q9NX01"]</data>
+  <data key="d3">["TXNL4B"]</data>
+  <data key="d4">["thioredoxin-like protein 4B"]</data>
+  <data key="d5">["54957"]</data>
+  <data key="d6">["ENSG00000140830"]</data>
+  <data key="d7">TXNL4B</data>
+  <data key="d8">True</data>
+</node>
+<node id="ZCCHC2">
+  <data key="d0">ZCCHC2</data>
+  <data key="d1">["p31680", "p31679"]</data>
+  <data key="d2">["Q9BRD4", "Q9C0B9"]</data>
+  <data key="d3">["ZCCHC2"]</data>
+  <data key="d4">["zinc finger CCHC domain-containing protein 2"]</data>
+  <data key="d5">["54877"]</data>
+  <data key="d7">ZCCHC2</data>
+  <data key="d8">True</data>
+</node>
+<node id="LGR4">
+  <data key="d0">LGR4</data>
+  <data key="d1">["p15053"]</data>
+  <data key="d2">["Q9BXB1"]</data>
+  <data key="d3">["LGR4"]</data>
+  <data key="d4">["leucine-rich repeat-containing G-protein coupled receptor 4"]</data>
+  <data key="d5">["55366"]</data>
+  <data key="d6">["ENSG00000205213"]</data>
+  <data key="d7">LGR4</data>
+  <data key="d8">False</data>
+</node>
+<node id="GRWD1">
+  <data key="d0">GRWD1</data>
+  <data key="d1">["p11515"]</data>
+  <data key="d2">["Q9BQ67"]</data>
+  <data key="d3">["GRWD1"]</data>
+  <data key="d4">["glutamate-rich WD repeat-containing protein 1"]</data>
+  <data key="d5">["83743"]</data>
+  <data key="d6">["ENSG00000105447"]</data>
+  <data key="d7">GRWD1</data>
+  <data key="d8">False</data>
+</node>
+<node id="MRPS18B">
+  <data key="d0">MRPS18B</data>
+  <data key="d1">["p24413"]</data>
+  <data key="d2">["Q9Y676"]</data>
+  <data key="d3">["MRPS18B"]</data>
+  <data key="d4">["28S ribosomal protein S18b, mitochondrial"]</data>
+  <data key="d5">["28973"]</data>
+  <data key="d6">["ENSG00000227420", "ENSG00000226111", "ENSG00000223775", "ENSG00000229861", "ENSG00000204568", "ENSG00000233813", "ENSG00000203624"]</data>
+  <data key="d7">MRPS18B</data>
+  <data key="d8">True</data>
+</node>
+<node id="SMG7">
+  <data key="d0">SMG7</data>
+  <data key="d1">["p26172", "p26171", "p26170"]</data>
+  <data key="d2">["Q92540", "A0A8I5KSL3", "E9PD50"]</data>
+  <data key="d3">["SMG7"]</data>
+  <data key="d4">["nonsense-mediated mRNA decay factor SMG7"]</data>
+  <data key="d5">["9887"]</data>
+  <data key="d6">["ENSG00000116698"]</data>
+  <data key="d7">SMG7</data>
+  <data key="d8">False</data>
+</node>
+<node id="APP">
+  <data key="d0">APP</data>
+  <data key="d1">["p145", "p144", "p147"]</data>
+  <data key="d2">["A0A0A0MRG2", "E9PG40", "P05067"]</data>
+  <data key="d3">["APP"]</data>
+  <data key="d4">["amyloid-beta precursor protein"]</data>
+  <data key="d5">["351"]</data>
+  <data key="d6">["ENSG00000142192"]</data>
+  <data key="d7">APP</data>
+  <data key="d8">False</data>
+</node>
+<node id="TAL1">
+  <data key="d0">TAL1</data>
+  <data key="d1">["p27840"]</data>
+  <data key="d2">["P17542"]</data>
+  <data key="d3">["TAL1"]</data>
+  <data key="d4">["T-cell acute lymphocytic leukemia protein 1"]</data>
+  <data key="d5">["6886"]</data>
+  <data key="d6">["ENSG00000162367"]</data>
+  <data key="d7">TAL1</data>
+  <data key="d8">True</data>
+</node>
+<node id="POLQ">
+  <data key="d0">POLQ</data>
+  <data key="d1">["p7801"]</data>
+  <data key="d2">["O75417"]</data>
+  <data key="d3">["POLQ"]</data>
+  <data key="d4">["DNA polymerase theta"]</data>
+  <data key="d5">["10721"]</data>
+  <data key="d6">["ENSG00000051341"]</data>
+  <data key="d7">POLQ</data>
+  <data key="d8">True</data>
+</node>
+<node id="INTU">
+  <data key="d0">INTU</data>
+  <data key="d1">["p13227"]</data>
+  <data key="d2">["Q9ULD6"]</data>
+  <data key="d3">["INTU"]</data>
+  <data key="d4">["protein inturned"]</data>
+  <data key="d5">["27152"]</data>
+  <data key="d6">["ENSG00000164066"]</data>
+  <data key="d7">INTU</data>
+  <data key="d8">True</data>
+</node>
+<node id="METTL18">
+  <data key="d0">METTL18</data>
+  <data key="d1">["p16426"]</data>
+  <data key="d2">["O95568"]</data>
+  <data key="d3">["METTL18"]</data>
+  <data key="d4">["histidine protein methyltransferase 1 homolog"]</data>
+  <data key="d5">["92342"]</data>
+  <data key="d6">["ENSG00000171806"]</data>
+  <data key="d7">METTL18</data>
+  <data key="d8">False</data>
+</node>
+<node id="RNF5">
+  <data key="d0">RNF5</data>
+  <data key="d1">["p24071", "p24070"]</data>
+  <data key="d2">["Q99942", "A0A024RCQ4"]</data>
+  <data key="d3">["RNF5"]</data>
+  <data key="d4">["E3 ubiquitin-protein ligase RNF5"]</data>
+  <data key="d5">["6048"]</data>
+  <data key="d6">["ENSG00000225452", "ENSG00000228907", "ENSG00000227277", "ENSG00000183574", "ENSG00000228405", "ENSG00000204308", "ENSG00000223767"]</data>
+  <data key="d7">RNF5</data>
+  <data key="d8">True</data>
+</node>
+<node id="ZEB2">
+  <data key="d0">ZEB2</data>
+  <data key="d1">["p31738"]</data>
+  <data key="d2">["O60315"]</data>
+  <data key="d3">["ZEB2"]</data>
+  <data key="d4">["zinc finger E-box-binding homeobox 2"]</data>
+  <data key="d5">["9839"]</data>
+  <data key="d6">["ENSG00000169554"]</data>
+  <data key="d7">ZEB2</data>
+  <data key="d8">True</data>
+</node>
+<node id="FILIP1L">
+  <data key="d0">FILIP1L</data>
+  <data key="d1">["p9854"]</data>
+  <data key="d2">["Q4L180"]</data>
+  <data key="d3">["FILIP1L"]</data>
+  <data key="d4">["filamin A-interacting protein 1-like"]</data>
+  <data key="d5">["11259"]</data>
+  <data key="d6">["ENSG00000168386"]</data>
+  <data key="d7">FILIP1L</data>
+  <data key="d8">True</data>
+</node>
+<node id="PLCB4">
+  <data key="d0">PLCB4</data>
+  <data key="d1">["p21406", "p21407"]</data>
+  <data key="d2">["A0A7P0MRI8", "Q15147"]</data>
+  <data key="d3">["PLCB4"]</data>
+  <data key="d4">["1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-4"]</data>
+  <data key="d5">["5332"]</data>
+  <data key="d6">["ENSG00000101333"]</data>
+  <data key="d7">PLCB4</data>
+  <data key="d8">True</data>
+</node>
+<node id="MICAL2">
+  <data key="d0">MICAL2</data>
+  <data key="d1">["p16586"]</data>
+  <data key="d2">["O94851"]</data>
+  <data key="d3">["MICAL2"]</data>
+  <data key="d4">["[F-actin]-monooxygenase MICAL2"]</data>
+  <data key="d5">["9645"]</data>
+  <data key="d6">["ENSG00000133816"]</data>
+  <data key="d7">MICAL2</data>
+  <data key="d8">True</data>
+</node>
+<node id="KIAA0586">
+  <data key="d0">KIAA0586</data>
+  <data key="d1">["p27848", "p27844", "p27846"]</data>
+  <data key="d2">["A0A087WYM5", "A0A494C171", "Q9BVV6"]</data>
+  <data key="d3">["KIAA0586"]</data>
+  <data key="d4">["protein TALPID3"]</data>
+  <data key="d5">["9786"]</data>
+  <data key="d6">["ENSG00000100578"]</data>
+  <data key="d7">KIAA0586</data>
+  <data key="d8">True</data>
+</node>
+<node id="MRPS30">
+  <data key="d0">MRPS30</data>
+  <data key="d1">["p24432"]</data>
+  <data key="d2">["Q9NP92"]</data>
+  <data key="d3">["MRPS30"]</data>
+  <data key="d4">["39S ribosomal protein S30, mitochondrial"]</data>
+  <data key="d5">["10884"]</data>
+  <data key="d6">["ENSG00000112996"]</data>
+  <data key="d7">MRPS30</data>
+  <data key="d8">False</data>
+</node>
+<node id="RECQL4">
+  <data key="d0">RECQL4</data>
+  <data key="d1">["p23261"]</data>
+  <data key="d2">["O94761"]</data>
+  <data key="d3">["RECQL4"]</data>
+  <data key="d4">["ATP-dependent DNA helicase Q4"]</data>
+  <data key="d5">["9401"]</data>
+  <data key="d6">["ENSG00000160957"]</data>
+  <data key="d7">RECQL4</data>
+  <data key="d8">False</data>
+</node>
+<node id="ISCU">
+  <data key="d0">ISCU</data>
+  <data key="d1">["p13380", "p13377", "p13379", "p13378"]</data>
+  <data key="d2">["B3KQ30", "Q9H1K1", "B1P7G3", "B4DNC9"]</data>
+  <data key="d3">["ISCU"]</data>
+  <data key="d4">["iron-sulfur cluster assembly enzyme ISCU, mitochondrial"]</data>
+  <data key="d5">["23479"]</data>
+  <data key="d6">["ENSG00000136003"]</data>
+  <data key="d7">ISCU</data>
+  <data key="d8">True</data>
+</node>
+<node id="BBS4">
+  <data key="d0">BBS4</data>
+  <data key="d1">["p2734", "p2735"]</data>
+  <data key="d2">["A0A0S2Z3A9", "Q96RK4"]</data>
+  <data key="d3">["BBS4"]</data>
+  <data key="d4">["Bardet-Biedl syndrome 4 protein"]</data>
+  <data key="d5">["585"]</data>
+  <data key="d6">["ENSG00000140463"]</data>
+  <data key="d7">BBS4</data>
+  <data key="d8">True</data>
+</node>
+<node id="PM20D1">
+  <data key="d0">PM20D1</data>
+  <data key="d1">["p19988"]</data>
+  <data key="d2">["Q6GTS8"]</data>
+  <data key="d3">["PM20D1"]</data>
+  <data key="d4">["N-fatty-acyl-amino acid synthase/hydrolase PM20D1"]</data>
+  <data key="d5">["148811"]</data>
+  <data key="d6">["ENSG00000162877"]</data>
+  <data key="d7">PM20D1</data>
+  <data key="d8">True</data>
+</node>
+<node id="GRM1">
+  <data key="d0">GRM1</data>
+  <data key="d1">["p11474"]</data>
+  <data key="d2">["Q13255"]</data>
+  <data key="d3">["GRM1"]</data>
+  <data key="d4">["metabotropic glutamate receptor 1"]</data>
+  <data key="d5">["2911"]</data>
+  <data key="d6">["ENSG00000152822"]</data>
+  <data key="d7">GRM1</data>
+  <data key="d8">True</data>
+</node>
+<node id="VWA8">
+  <data key="d0">VWA8</data>
+  <data key="d1">["p31061"]</data>
+  <data key="d2">["A3KMH1"]</data>
+  <data key="d3">["VWA8"]</data>
+  <data key="d4">["von Willebrand factor A domain-containing protein 8"]</data>
+  <data key="d5">["23078"]</data>
+  <data key="d6">["ENSG00000102763"]</data>
+  <data key="d7">VWA8</data>
+  <data key="d8">False</data>
+</node>
+<node id="OSBP2">
+  <data key="d0">OSBP2</data>
+  <data key="d1">["p19881"]</data>
+  <data key="d2">["Q969R2"]</data>
+  <data key="d3">["OSBP2"]</data>
+  <data key="d4">["oxysterol-binding protein 2"]</data>
+  <data key="d5">["23762"]</data>
+  <data key="d6">["ENSG00000184792"]</data>
+  <data key="d7">OSBP2</data>
+  <data key="d8">True</data>
+</node>
+<node id="OBSL1">
+  <data key="d0">OBSL1</data>
+  <data key="d1">["p19307"]</data>
+  <data key="d2">["O75147"]</data>
+  <data key="d3">["OBSL1"]</data>
+  <data key="d4">["obscurin-like protein 1"]</data>
+  <data key="d5">["23363"]</data>
+  <data key="d6">["ENSG00000124006"]</data>
+  <data key="d7">OBSL1</data>
+  <data key="d8">False</data>
+</node>
+<node id="CIDEB">
+  <data key="d0">CIDEB</data>
+  <data key="d1">["p5082"]</data>
+  <data key="d2">["Q9UHD4"]</data>
+  <data key="d3">["CIDEB"]</data>
+  <data key="d4">["cell death activator CIDE-B"]</data>
+  <data key="d5">["27141"]</data>
+  <data key="d6">["ENSG00000136305", "ENSG00000285199"]</data>
+  <data key="d7">CIDEB</data>
+  <data key="d8">True</data>
+</node>
+<node id="PON2">
+  <data key="d0">PON2</data>
+  <data key="d1">["p21682"]</data>
+  <data key="d2">["Q15165"]</data>
+  <data key="d3">["PON2"]</data>
+  <data key="d4">["serum paraoxonase/arylesterase 2"]</data>
+  <data key="d5">["5445"]</data>
+  <data key="d6">["ENSG00000105854"]</data>
+  <data key="d7">PON2</data>
+  <data key="d8">False</data>
+</node>
+<node id="CPNE1">
+  <data key="d0">CPNE1</data>
+  <data key="d1">["p6024", "p6023"]</data>
+  <data key="d2">["Q99829", "B0QZ18"]</data>
+  <data key="d3">["CPNE1"]</data>
+  <data key="d4">["copine-1"]</data>
+  <data key="d5">["8904"]</data>
+  <data key="d6">["ENSG00000214078"]</data>
+  <data key="d7">CPNE1</data>
+  <data key="d8">False</data>
+</node>
+<node id="KRT222">
+  <data key="d0">KRT222</data>
+  <data key="d1">["p14721"]</data>
+  <data key="d2">["Q8N1A0"]</data>
+  <data key="d3">["KRT222"]</data>
+  <data key="d4">["keratin-like protein KRT222"]</data>
+  <data key="d5">["125113"]</data>
+  <data key="d6">["ENSG00000213424"]</data>
+  <data key="d7">KRT222</data>
+  <data key="d8">True</data>
+</node>
+<node id="PLEC">
+  <data key="d0">PLEC</data>
+  <data key="d1">["p21456", "p21455"]</data>
+  <data key="d2">["Q15149", "A0A8I5KUE3"]</data>
+  <data key="d3">["PLEC"]</data>
+  <data key="d4">["plectin"]</data>
+  <data key="d5">["5339"]</data>
+  <data key="d6">["ENSG00000178209"]</data>
+  <data key="d7">PLEC</data>
+  <data key="d8">False</data>
+</node>
+<node id="NLGN2">
+  <data key="d0">NLGN2</data>
+  <data key="d1">["p18305"]</data>
+  <data key="d2">["Q8NFZ4"]</data>
+  <data key="d3">["NLGN2"]</data>
+  <data key="d4">["neuroligin-2"]</data>
+  <data key="d5">["57555"]</data>
+  <data key="d6">["ENSG00000283859", "ENSG00000169992"]</data>
+  <data key="d7">NLGN2</data>
+  <data key="d8">False</data>
+</node>
+<node id="NMRAL1">
+  <data key="d0">NMRAL1</data>
+  <data key="d1">["p18377"]</data>
+  <data key="d2">["Q9HBL8"]</data>
+  <data key="d3">["NMRAL1"]</data>
+  <data key="d4">["nmrA-like family domain-containing protein 1"]</data>
+  <data key="d5">["57407"]</data>
+  <data key="d6">["ENSG00000274684", "ENSG00000153406"]</data>
+  <data key="d7">NMRAL1</data>
+  <data key="d8">False</data>
+</node>
+<node id="EHMT2">
+  <data key="d0">EHMT2</data>
+  <data key="d1">["p8383", "p8385", "p8384"]</data>
+  <data key="d2">["A2ABF8", "Q96KQ7", "A0A024RCN9"]</data>
+  <data key="d3">["EHMT2"]</data>
+  <data key="d4">["histone-lysine N-methyltransferase EHMT2"]</data>
+  <data key="d5">["10919"]</data>
+  <data key="d6">["ENSG00000232045", "ENSG00000238134", "ENSG00000227333", "ENSG00000206376", "ENSG00000236759", "ENSG00000224143", "ENSG00000204371"]</data>
+  <data key="d7">EHMT2</data>
+  <data key="d8">True</data>
+</node>
+<node id="RNF123">
+  <data key="d0">RNF123</data>
+  <data key="d1">["p23954"]</data>
+  <data key="d2">["Q5XPI4"]</data>
+  <data key="d3">["RNF123"]</data>
+  <data key="d4">["E3 ubiquitin-protein ligase RNF123"]</data>
+  <data key="d5">["63891"]</data>
+  <data key="d6">["ENSG00000164068"]</data>
+  <data key="d7">RNF123</data>
+  <data key="d8">False</data>
+</node>
+<node id="ATP13A2">
+  <data key="d0">ATP13A2</data>
+  <data key="d1">["p2203", "p2205"]</data>
+  <data key="d2">["Q9NQ11", "Q8N4D4"]</data>
+  <data key="d3">["ATP13A2"]</data>
+  <data key="d4">["polyamine-transporting ATPase 13A2"]</data>
+  <data key="d5">["23400"]</data>
+  <data key="d6">["ENSG00000159363"]</data>
+  <data key="d7">ATP13A2</data>
+  <data key="d8">False</data>
+</node>
+<node id="KIAA0513">
+  <data key="d0">KIAA0513</data>
+  <data key="d1">["p13636"]</data>
+  <data key="d2">["O60268"]</data>
+  <data key="d3">["KIAA0513"]</data>
+  <data key="d4">["uncharacterized protein KIAA0513"]</data>
+  <data key="d5">["9764"]</data>
+  <data key="d6">["ENSG00000135709"]</data>
+  <data key="d7">KIAA0513</data>
+  <data key="d8">True</data>
+</node>
+<node id="OSBPL5">
+  <data key="d0">OSBPL5</data>
+  <data key="d1">["p19872"]</data>
+  <data key="d2">["Q9H0X9"]</data>
+  <data key="d3">["OSBPL5"]</data>
+  <data key="d4">["oxysterol-binding protein-related protein 5"]</data>
+  <data key="d5">["114879"]</data>
+  <data key="d6">["ENSG00000021762"]</data>
+  <data key="d7">OSBPL5</data>
+  <data key="d8">True</data>
+</node>
+<node id="ZIC1">
+  <data key="d0">ZIC1</data>
+  <data key="d1">["p31836"]</data>
+  <data key="d2">["Q15915"]</data>
+  <data key="d3">["ZIC1"]</data>
+  <data key="d4">["zinc finger protein ZIC 1"]</data>
+  <data key="d5">["7545"]</data>
+  <data key="d6">["ENSG00000152977"]</data>
+  <data key="d7">ZIC1</data>
+  <data key="d8">True</data>
+</node>
+<node id="GABPA">
+  <data key="d0">GABPA</data>
+  <data key="d1">["p10367", "p10368", "p10369"]</data>
+  <data key="d2">["Q8IYS3", "Q06546", "A8IE48"]</data>
+  <data key="d3">["GABPA"]</data>
+  <data key="d4">["GA-binding protein alpha chain"]</data>
+  <data key="d5">["2551"]</data>
+  <data key="d6">["ENSG00000154727"]</data>
+  <data key="d7">GABPA</data>
+  <data key="d8">True</data>
+</node>
+<node id="HNRNPH1">
+  <data key="d0">HNRNPH1</data>
+  <data key="d1">["p12240"]</data>
+  <data key="d2">["P31943"]</data>
+  <data key="d3">["HNRNPH1"]</data>
+  <data key="d4">["heterogeneous nuclear ribonucleoprotein H"]</data>
+  <data key="d5">["3187"]</data>
+  <data key="d6">["ENSG00000284254", "ENSG00000169045"]</data>
+  <data key="d7">HNRNPH1</data>
+  <data key="d8">False</data>
+</node>
+<node id="FCGRT">
+  <data key="d0">FCGRT</data>
+  <data key="d1">["p9648"]</data>
+  <data key="d2">["P55899"]</data>
+  <data key="d3">["FCGRT"]</data>
+  <data key="d4">["IgG receptor FcRn large subunit p51"]</data>
+  <data key="d5">["2217"]</data>
+  <data key="d6">["ENSG00000104870"]</data>
+  <data key="d7">FCGRT</data>
+  <data key="d8">False</data>
+</node>
+<node id="KCNAB2">
+  <data key="d0">KCNAB2</data>
+  <data key="d1">["p13838", "p13839"]</data>
+  <data key="d2">["A1PR14", "Q13303"]</data>
+  <data key="d3">["KCNAB2"]</data>
+  <data key="d4">["voltage-gated potassium channel subunit beta-2"]</data>
+  <data key="d5">["8514"]</data>
+  <data key="d6">["ENSG00000069424"]</data>
+  <data key="d7">KCNAB2</data>
+  <data key="d8">True</data>
+</node>
+<node id="ICAM5">
+  <data key="d0">ICAM5</data>
+  <data key="d1">["p12677", "p12678"]</data>
+  <data key="d2">["Q9UMF0", "Q8N6I2"]</data>
+  <data key="d3">["ICAM5"]</data>
+  <data key="d4">["intercellular adhesion molecule 5"]</data>
+  <data key="d5">["7087"]</data>
+  <data key="d6">["ENSG00000105376"]</data>
+  <data key="d7">ICAM5</data>
+  <data key="d8">False</data>
+</node>
+<node id="PITPNM2">
+  <data key="d0">PITPNM2</data>
+  <data key="d1">["p21239"]</data>
+  <data key="d2">["Q9BZ72"]</data>
+  <data key="d3">["PITPNM2"]</data>
+  <data key="d4">["membrane-associated phosphatidylinositol transfer protein 2"]</data>
+  <data key="d5">["57605"]</data>
+  <data key="d6">["ENSG00000090975"]</data>
+  <data key="d7">PITPNM2</data>
+  <data key="d8">True</data>
+</node>
+<node id="HNRNPL">
+  <data key="d0">HNRNPL</data>
+  <data key="d1">["p12267", "p12268"]</data>
+  <data key="d2">["Q6NTA2", "P14866"]</data>
+  <data key="d3">["HNRNPL"]</data>
+  <data key="d4">["heterogeneous nuclear ribonucleoprotein L"]</data>
+  <data key="d5">["3191"]</data>
+  <data key="d6">["ENSG00000104824", "ENSG00000282947"]</data>
+  <data key="d7">HNRNPL</data>
+  <data key="d8">False</data>
+</node>
+<node id="LINGO1">
+  <data key="d0">LINGO1</data>
+  <data key="d1">["p15099"]</data>
+  <data key="d2">["Q96FE5"]</data>
+  <data key="d3">["LINGO1"]</data>
+  <data key="d4">["leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 1"]</data>
+  <data key="d5">["84894"]</data>
+  <data key="d6">["ENSG00000169783"]</data>
+  <data key="d7">LINGO1</data>
+  <data key="d8">True</data>
+</node>
+<node id="RNASEH2A">
+  <data key="d0">RNASEH2A</data>
+  <data key="d1">["p24081"]</data>
+  <data key="d2">["O75792"]</data>
+  <data key="d3">["RNASEH2A"]</data>
+  <data key="d4">["ribonuclease H2 subunit A"]</data>
+  <data key="d5">["10535"]</data>
+  <data key="d6">["ENSG00000104889"]</data>
+  <data key="d7">RNASEH2A</data>
+  <data key="d8">False</data>
+</node>
+<node id="NCOA2">
+  <data key="d0">NCOA2</data>
+  <data key="d1">["p17814"]</data>
+  <data key="d2">["Q15596"]</data>
+  <data key="d3">["NCOA2"]</data>
+  <data key="d4">["nuclear receptor coactivator 2"]</data>
+  <data key="d5">["10499"]</data>
+  <data key="d6">["ENSG00000140396"]</data>
+  <data key="d7">NCOA2</data>
+  <data key="d8">True</data>
+</node>
+<node id="SGCE">
+  <data key="d0">SGCE</data>
+  <data key="d1">["p25651", "p25653", "p25649", "p25655", "p25650", "p25654", "p25652"]</data>
+  <data key="d2">["E9PEH6", "O43556", "A0A2R8Y5J3", "A0A2R8YGQ3", "C9JR67", "A0A2R8YH84", "A0A0S2Z4P5"]</data>
+  <data key="d3">["SGCE"]</data>
+  <data key="d4">["epsilon-sarcoglycan"]</data>
+  <data key="d5">["8910"]</data>
+  <data key="d6">["ENSG00000127990"]</data>
+  <data key="d7">SGCE</data>
+  <data key="d8">True</data>
+</node>
+<node id="CALML3">
+  <data key="d0">CALML3</data>
+  <data key="d1">["p3559"]</data>
+  <data key="d2">["P27482"]</data>
+  <data key="d3">["CALML3"]</data>
+  <data key="d4">["calmodulin-like protein 3"]</data>
+  <data key="d5">["810"]</data>
+  <data key="d6">["ENSG00000178363"]</data>
+  <data key="d7">CALML3</data>
+  <data key="d8">True</data>
+</node>
+<node id="ARID5B">
+  <data key="d0">ARID5B</data>
+  <data key="d1">["p1867"]</data>
+  <data key="d2">["Q14865"]</data>
+  <data key="d3">["ARID5B"]</data>
+  <data key="d4">["AT-rich interactive domain-containing protein 5B"]</data>
+  <data key="d5">["84159"]</data>
+  <data key="d6">["ENSG00000150347"]</data>
+  <data key="d7">ARID5B</data>
+  <data key="d8">True</data>
+</node>
+<node id="RPP30">
+  <data key="d0">RPP30</data>
+  <data key="d1">["p24259"]</data>
+  <data key="d2">["P78346"]</data>
+  <data key="d3">["RPP30"]</data>
+  <data key="d4">["ribonuclease P protein subunit p30"]</data>
+  <data key="d5">["10556"]</data>
+  <data key="d6">["ENSG00000148688"]</data>
+  <data key="d7">RPP30</data>
+  <data key="d8">True</data>
+</node>
+<node id="NCAPD2">
+  <data key="d0">NCAPD2</data>
+  <data key="d1">["p5473"]</data>
+  <data key="d2">["Q15021"]</data>
+  <data key="d3">["NCAPD2"]</data>
+  <data key="d4">["condensin complex subunit 1"]</data>
+  <data key="d5">["9918"]</data>
+  <data key="d6">["ENSG00000010292"]</data>
+  <data key="d7">NCAPD2</data>
+  <data key="d8">False</data>
+</node>
+<node id="B3GALT4">
+  <data key="d0">B3GALT4</data>
+  <data key="d1">["p2591", "p2592"]</data>
+  <data key="d2">["Q5STJ7", "O96024"]</data>
+  <data key="d3">["B3GALT4"]</data>
+  <data key="d4">["beta-1,3-galactosyltransferase 4"]</data>
+  <data key="d5">["8705"]</data>
+  <data key="d6">["ENSG00000226936", "ENSG00000235155", "ENSG00000235863", "ENSG00000236802", "ENSG00000206285"]</data>
+  <data key="d7">B3GALT4</data>
+  <data key="d8">True</data>
+</node>
+<node id="UFM1">
+  <data key="d0">UFM1</data>
+  <data key="d1">["p30528"]</data>
+  <data key="d2">["P61960"]</data>
+  <data key="d3">["UFM1"]</data>
+  <data key="d4">["ubiquitin-fold modifier 1"]</data>
+  <data key="d5">["51569"]</data>
+  <data key="d6">["ENSG00000120686"]</data>
+  <data key="d7">UFM1</data>
+  <data key="d8">True</data>
+</node>
+<node id="SART3">
+  <data key="d0">SART3</data>
+  <data key="d1">["p25069", "p25068"]</data>
+  <data key="d2">["Q15020", "A0A499FI31"]</data>
+  <data key="d3">["SART3"]</data>
+  <data key="d4">["squamous cell carcinoma antigen recognized by T-cells 3"]</data>
+  <data key="d5">["9733"]</data>
+  <data key="d6">["ENSG00000075856"]</data>
+  <data key="d7">SART3</data>
+  <data key="d8">True</data>
+</node>
+<node id="SMC4">
+  <data key="d0">SMC4</data>
+  <data key="d1">["p26132", "p26134", "p26133"]</data>
+  <data key="d2">["E9PD53", "Q58F29", "Q9NTJ3"]</data>
+  <data key="d3">["SMC4"]</data>
+  <data key="d4">["structural maintenance of chromosomes protein 4"]</data>
+  <data key="d5">["10051"]</data>
+  <data key="d6">["ENSG00000113810"]</data>
+  <data key="d7">SMC4</data>
+  <data key="d8">True</data>
+</node>
+<node id="MEF2C">
+  <data key="d0">MEF2C</data>
+  <data key="d1">["p16344", "p16345", "p16347", "p16346", "p16348"]</data>
+  <data key="d2">["A0A024RAL7", "D8L7E9", "A0A024RAL6", "Q06413", "A0A0D9SGI5"]</data>
+  <data key="d3">["MEF2C"]</data>
+  <data key="d4">["myocyte-specific enhancer factor 2C"]</data>
+  <data key="d5">["4208"]</data>
+  <data key="d6">["ENSG00000081189"]</data>
+  <data key="d7">MEF2C</data>
+  <data key="d8">True</data>
+</node>
+<node id="HECW2">
+  <data key="d0">HECW2</data>
+  <data key="d1">["p11928", "p11929"]</data>
+  <data key="d2">["A0A2R8Y6F3", "Q9P2P5"]</data>
+  <data key="d3">["HECW2"]</data>
+  <data key="d4">["E3 ubiquitin-protein ligase HECW2"]</data>
+  <data key="d5">["57520"]</data>
+  <data key="d6">["ENSG00000138411"]</data>
+  <data key="d7">HECW2</data>
+  <data key="d8">False</data>
+</node>
+<node id="ATF6">
+  <data key="d0">ATF6</data>
+  <data key="d1">["p2302", "p2300", "p2303"]</data>
+  <data key="d2">["P18850", "A0A7P0Z421", "A0A7P0TAF2"]</data>
+  <data key="d3">["ATF6"]</data>
+  <data key="d4">["cyclic AMP-dependent transcription factor ATF-6 alpha"]</data>
+  <data key="d5">["22926"]</data>
+  <data key="d6">["ENSG00000118217"]</data>
+  <data key="d7">ATF6</data>
+  <data key="d8">True</data>
+</node>
+<node id="CCDC8">
+  <data key="d0">CCDC8</data>
+  <data key="d1">["p4085"]</data>
+  <data key="d2">["Q9H0W5"]</data>
+  <data key="d3">["CCDC8"]</data>
+  <data key="d4">["coiled-coil domain-containing protein 8"]</data>
+  <data key="d5">["83987"]</data>
+  <data key="d6">["ENSG00000169515"]</data>
+  <data key="d7">CCDC8</data>
+  <data key="d8">False</data>
+</node>
+<node id="HOXC6">
+  <data key="d0">HOXC6</data>
+  <data key="d1">["p12520"]</data>
+  <data key="d2">["P09630"]</data>
+  <data key="d3">["HOXC6"]</data>
+  <data key="d4">["homeobox protein Hox-C6"]</data>
+  <data key="d5">["3223"]</data>
+  <data key="d6">["ENSG00000197757"]</data>
+  <data key="d7">HOXC6</data>
+  <data key="d8">True</data>
+</node>
+<node id="NRXN1">
+  <data key="d0">NRXN1</data>
+  <data key="d1">["p18755", "p18757", "p18754", "p18759", "p18758", "p18760", "p18756", "p18753", "p18752"]</data>
+  <data key="d2">["A0A1D5RMU6", "A0A0D9SEM5", "Q9ULB1", "A0A0D9SEQ7", "H0Y568", "P58400", "E7EQN4", "H7BYC7", "E7ERL8"]</data>
+  <data key="d3">["NRXN1"]</data>
+  <data key="d4">["neurexin-1"]</data>
+  <data key="d5">["9378"]</data>
+  <data key="d6">["ENSG00000179915"]</data>
+  <data key="d7">NRXN1</data>
+  <data key="d8">True</data>
+</node>
+<node id="PPP2R2C">
+  <data key="d0">PPP2R2C</data>
+  <data key="d1">["p33"]</data>
+  <data key="d2">["Q9Y2T4"]</data>
+  <data key="d3">["PPP2R2C"]</data>
+  <data key="d4">["protein phosphatase 2, regulatory subunit B, gamma"]</data>
+  <data key="d5">["5522"]</data>
+  <data key="d6">["ENSG00000074211"]</data>
+  <data key="d7">PPP2R2C</data>
+  <data key="d8">True</data>
+</node>
+<node id="SGMS1">
+  <data key="d0">SGMS1</data>
+  <data key="d1">["p26220"]</data>
+  <data key="d2">["Q86VZ5"]</data>
+  <data key="d3">["SGMS1"]</data>
+  <data key="d4">["phosphatidylcholine:ceramide cholinephosphotransferase 1"]</data>
+  <data key="d5">["259230"]</data>
+  <data key="d6">["ENSG00000198964"]</data>
+  <data key="d7">SGMS1</data>
+  <data key="d8">True</data>
+</node>
+<node id="MEPCE">
+  <data key="d0">MEPCE</data>
+  <data key="d1">["p16397"]</data>
+  <data key="d2">["Q7L2J0"]</data>
+  <data key="d3">["MEPCE"]</data>
+  <data key="d4">["7SK snRNA methylphosphate capping enzyme"]</data>
+  <data key="d5">["56257"]</data>
+  <data key="d6">["ENSG00000146834"]</data>
+  <data key="d7">MEPCE</data>
+  <data key="d8">False</data>
+</node>
+<node id="ZDBF2">
+  <data key="d0">ZDBF2</data>
+  <data key="d1">["p31695", "p31694", "p31693"]</data>
+  <data key="d2">["Q9HCK1", "N0DVB2", "N0DVX5"]</data>
+  <data key="d3">["ZDBF2"]</data>
+  <data key="d4">["DBF4-type zinc finger-containing protein 2"]</data>
+  <data key="d5">["57683"]</data>
+  <data key="d6">["ENSG00000204186", "ENSG00000283649"]</data>
+  <data key="d7">ZDBF2</data>
+  <data key="d8">True</data>
+</node>
+<node id="ST8SIA4">
+  <data key="d0">ST8SIA4</data>
+  <data key="d1">["p25853"]</data>
+  <data key="d2">["Q92187"]</data>
+  <data key="d3">["ST8SIA4"]</data>
+  <data key="d4">["CMP-N-acetylneuraminate-poly-alpha-2,8-sialyltransferase"]</data>
+  <data key="d5">["7903"]</data>
+  <data key="d6">["ENSG00000113532"]</data>
+  <data key="d7">ST8SIA4</data>
+  <data key="d8">True</data>
+</node>
+<node id="HOXC4">
+  <data key="d0">HOXC4</data>
+  <data key="d1">["p12516", "p12517"]</data>
+  <data key="d2">["P09017", "Q86TF7"]</data>
+  <data key="d3">["HOXC4"]</data>
+  <data key="d4">["homeobox protein Hox-C4"]</data>
+  <data key="d5">["3221"]</data>
+  <data key="d6">["ENSG00000198353"]</data>
+  <data key="d7">HOXC4</data>
+  <data key="d8">True</data>
+</node>
+<node id="ERH">
+  <data key="d0">ERH</data>
+  <data key="d1">["p8827", "p8826"]</data>
+  <data key="d2">["P84090", "A0A024R6D4"]</data>
+  <data key="d3">["ERH"]</data>
+  <data key="d4">["enhancer of rudimentary homolog"]</data>
+  <data key="d5">["2079"]</data>
+  <data key="d6">["ENSG00000100632"]</data>
+  <data key="d7">ERH</data>
+  <data key="d8">True</data>
+</node>
+<node id="NUDT12">
+  <data key="d0">NUDT12</data>
+  <data key="d1">["p18930"]</data>
+  <data key="d2">["Q9BQG2"]</data>
+  <data key="d3">["NUDT12"]</data>
+  <data key="d4">["NAD-capped RNA hydrolase NUDT12"]</data>
+  <data key="d5">["83594"]</data>
+  <data key="d6">["ENSG00000112874"]</data>
+  <data key="d7">NUDT12</data>
+  <data key="d8">True</data>
+</node>
+<node id="TRIM27">
+  <data key="d0">TRIM27</data>
+  <data key="d1">["p29594"]</data>
+  <data key="d2">["P14373"]</data>
+  <data key="d3">["TRIM27"]</data>
+  <data key="d4">["zinc finger protein RFP"]</data>
+  <data key="d5">["5987"]</data>
+  <data key="d6">["ENSG00000237462", "ENSG00000233948", "ENSG00000229006", "ENSG00000234495", "ENSG00000237071", "ENSG00000215641", "ENSG00000204713"]</data>
+  <data key="d7">TRIM27</data>
+  <data key="d8">True</data>
+</node>
+<node id="FLOT1">
+  <data key="d0">FLOT1</data>
+  <data key="d1">["p9923", "p9922"]</data>
+  <data key="d2">["Q5ST80", "O75955"]</data>
+  <data key="d3">["FLOT1"]</data>
+  <data key="d4">["flotillin-1"]</data>
+  <data key="d5">["10211"]</data>
+  <data key="d6">["ENSG00000206379", "ENSG00000137312", "ENSG00000236271", "ENSG00000232280", "ENSG00000224740", "ENSG00000223654", "ENSG00000230143", "ENSG00000206480"]</data>
+  <data key="d7">FLOT1</data>
+  <data key="d8">True</data>
+</node>
+<node id="DHX38">
+  <data key="d0">DHX38</data>
+  <data key="d1">["p22119"]</data>
+  <data key="d2">["Q92620"]</data>
+  <data key="d3">["DHX38"]</data>
+  <data key="d4">["pre-mRNA-splicing factor ATP-dependent RNA helicase PRP16"]</data>
+  <data key="d5">["9785"]</data>
+  <data key="d6">["ENSG00000140829"]</data>
+  <data key="d7">DHX38</data>
+  <data key="d8">True</data>
+</node>
+<node id="TSPAN3">
+  <data key="d0">TSPAN3</data>
+  <data key="d1">["p29877"]</data>
+  <data key="d2">["O60637"]</data>
+  <data key="d3">["TSPAN3"]</data>
+  <data key="d4">["tetraspanin-3"]</data>
+  <data key="d5">["10099"]</data>
+  <data key="d6">["ENSG00000140391"]</data>
+  <data key="d7">TSPAN3</data>
+  <data key="d8">False</data>
+</node>
+<node id="SCAPER">
+  <data key="d0">SCAPER</data>
+  <data key="d1">["p25204"]</data>
+  <data key="d2">["Q9BY12"]</data>
+  <data key="d3">["SCAPER"]</data>
+  <data key="d4">["S phase cyclin A-associated protein in the endoplasmic reticulum"]</data>
+  <data key="d5">["49855"]</data>
+  <data key="d6">["ENSG00000140386"]</data>
+  <data key="d7">SCAPER</data>
+  <data key="d8">True</data>
+</node>
+<node id="HTR2A">
+  <data key="d0">HTR2A</data>
+  <data key="d1">["p68"]</data>
+  <data key="d2">["P28223"]</data>
+  <data key="d3">["HTR2A"]</data>
+  <data key="d4">["5-hydroxytryptamine receptor 2A"]</data>
+  <data key="d5">["3356"]</data>
+  <data key="d6">["ENSG00000102468"]</data>
+  <data key="d7">HTR2A</data>
+  <data key="d8">True</data>
+</node>
+<node id="PI4K2A">
+  <data key="d0">PI4K2A</data>
+  <data key="d1">["p20047"]</data>
+  <data key="d2">["Q9BTU6"]</data>
+  <data key="d3">["PI4K2A"]</data>
+  <data key="d4">["phosphatidylinositol 4-kinase type 2-alpha"]</data>
+  <data key="d5">["55361"]</data>
+  <data key="d6">["ENSG00000155252"]</data>
+  <data key="d7">PI4K2A</data>
+  <data key="d8">True</data>
+</node>
+<node id="TBR1">
+  <data key="d0">TBR1</data>
+  <data key="d1">["p28051"]</data>
+  <data key="d2">["Q16650"]</data>
+  <data key="d3">["TBR1"]</data>
+  <data key="d4">["T-box brain protein 1"]</data>
+  <data key="d5">["10716"]</data>
+  <data key="d6">["ENSG00000136535"]</data>
+  <data key="d7">TBR1</data>
+  <data key="d8">True</data>
+</node>
+<node id="PPP1R10">
+  <data key="d0">PPP1R10</data>
+  <data key="d1">["p21743", "p21742"]</data>
+  <data key="d2">["Q2L6I0", "Q96QC0"]</data>
+  <data key="d3">["PPP1R10"]</data>
+  <data key="d4">["serine/threonine-protein phosphatase 1 regulatory subunit 10"]</data>
+  <data key="d5">["5514"]</data>
+  <data key="d6">["ENSG00000204569", "ENSG00000206489", "ENSG00000230995", "ENSG00000227804", "ENSG00000231737", "ENSG00000235291", "ENSG00000238104"]</data>
+  <data key="d7">PPP1R10</data>
+  <data key="d8">True</data>
+</node>
+<node id="LMO3">
+  <data key="d0">LMO3</data>
+  <data key="d1">["p15252", "p15251"]</data>
+  <data key="d2">["A0A024RAT1", "Q8TAP4"]</data>
+  <data key="d3">["LMO3"]</data>
+  <data key="d4">["LIM domain only protein 3"]</data>
+  <data key="d5">["55885"]</data>
+  <data key="d6">["ENSG00000048540"]</data>
+  <data key="d7">LMO3</data>
+  <data key="d8">True</data>
+</node>
+<node id="GPR21">
+  <data key="d0">GPR21</data>
+  <data key="d1">["p11298"]</data>
+  <data key="d2">["Q99679"]</data>
+  <data key="d3">["GPR21"]</data>
+  <data key="d4">["probable G-protein coupled receptor 21"]</data>
+  <data key="d5">["2844"]</data>
+  <data key="d6">["ENSG00000188394"]</data>
+  <data key="d7">GPR21</data>
+  <data key="d8">True</data>
+</node>
+<node id="TMEM132A">
+  <data key="d0">TMEM132A</data>
+  <data key="d1">["p27624"]</data>
+  <data key="d2">["Q24JP5"]</data>
+  <data key="d3">["TMEM132A"]</data>
+  <data key="d4">["transmembrane protein 132A"]</data>
+  <data key="d5">["54972"]</data>
+  <data key="d6">["ENSG00000006118"]</data>
+  <data key="d7">TMEM132A</data>
+  <data key="d8">False</data>
+</node>
+<node id="EPB41L2">
+  <data key="d0">EPB41L2</data>
+  <data key="d1">["p8150", "p8151"]</data>
+  <data key="d2">["O43491", "I6L9B1"]</data>
+  <data key="d3">["EPB41L2"]</data>
+  <data key="d4">["band 4.1-like protein 2"]</data>
+  <data key="d5">["2037"]</data>
+  <data key="d6">["ENSG00000079819"]</data>
+  <data key="d7">EPB41L2</data>
+  <data key="d8">False</data>
+</node>
+<node id="VIRMA">
+  <data key="d0">VIRMA</data>
+  <data key="d1">["p30896"]</data>
+  <data key="d2">["Q69YN4"]</data>
+  <data key="d3">["VIRMA"]</data>
+  <data key="d4">["protein virilizer homolog"]</data>
+  <data key="d5">["25962"]</data>
+  <data key="d6">["ENSG00000164944"]</data>
+  <data key="d7">VIRMA</data>
+  <data key="d8">False</data>
+</node>
+<node id="GRIN1">
+  <data key="d0">GRIN1</data>
+  <data key="d1">["p18363", "p18364"]</data>
+  <data key="d2">["Q5VSF9", "Q05586"]</data>
+  <data key="d3">["GRIN1"]</data>
+  <data key="d4">["glutamate receptor ionotropic, NMDA 1"]</data>
+  <data key="d5">["2902"]</data>
+  <data key="d6">["ENSG00000176884"]</data>
+  <data key="d7">GRIN1</data>
+  <data key="d8">False</data>
+</node>
+<node id="FBXO38">
+  <data key="d0">FBXO38</data>
+  <data key="d1">["p9577", "p9578"]</data>
+  <data key="d2">["Q6AZE0", "Q6PIJ6"]</data>
+  <data key="d3">["FBXO38"]</data>
+  <data key="d4">["F-box only protein 38"]</data>
+  <data key="d5">["81545"]</data>
+  <data key="d6">["ENSG00000145868"]</data>
+  <data key="d7">FBXO38</data>
+  <data key="d8">False</data>
+</node>
+<node id="LMBR1L">
+  <data key="d0">LMBR1L</data>
+  <data key="d1">["p15233", "p15235", "p15234", "p15232"]</data>
+  <data key="d2">["A0A024R0Z6", "A0A0S2Z6E3", "A0A024R0Y9", "Q6UX01"]</data>
+  <data key="d3">["LMBR1L"]</data>
+  <data key="d4">["protein LMBR1L"]</data>
+  <data key="d5">["55716"]</data>
+  <data key="d6">["ENSG00000139636"]</data>
+  <data key="d7">LMBR1L</data>
+  <data key="d8">False</data>
+</node>
+<node id="PRKCZ">
+  <data key="d0">PRKCZ</data>
+  <data key="d1">["p14549"]</data>
+  <data key="d2">["Q05513"]</data>
+  <data key="d3">["PRKCZ"]</data>
+  <data key="d4">["protein kinase C zeta type"]</data>
+  <data key="d5">["5590"]</data>
+  <data key="d6">["ENSG00000067606"]</data>
+  <data key="d7">PRKCZ</data>
+  <data key="d8">True</data>
+</node>
+<node id="ZNF331">
+  <data key="d0">ZNF331</data>
+  <data key="d1">["p32112", "p32111", "p32109", "p32110", "p32113"]</data>
+  <data key="d2">["Q71QC5", "Q71QC4", "Q9NQX6", "A0A024R4J5", "Q71QC6"]</data>
+  <data key="d3">["ZNF331"]</data>
+  <data key="d4">["zinc finger protein 331"]</data>
+  <data key="d5">["55422"]</data>
+  <data key="d6">["ENSG00000130844"]</data>
+  <data key="d7">ZNF331</data>
+  <data key="d8">True</data>
+</node>
+<node id="NNAT">
+  <data key="d0">NNAT</data>
+  <data key="d1">["p18393", "p18392"]</data>
+  <data key="d2">["A0A3B3ITN5", "Q16517"]</data>
+  <data key="d3">["NNAT"]</data>
+  <data key="d4">["neuronatin"]</data>
+  <data key="d5">["4826"]</data>
+  <data key="d6">["ENSG00000053438"]</data>
+  <data key="d7">NNAT</data>
+  <data key="d8">True</data>
+</node>
+<node id="ATM">
+  <data key="d0">ATM</data>
+  <data key="d1">["p2357", "p2358"]</data>
+  <data key="d2">["A0A024R3C7", "Q13315"]</data>
+  <data key="d3">["ATM"]</data>
+  <data key="d4">["serine-protein kinase ATM"]</data>
+  <data key="d5">["472"]</data>
+  <data key="d6">["ENSG00000149311"]</data>
+  <data key="d7">ATM</data>
+  <data key="d8">True</data>
+</node>
+<node id="TMEM63C">
+  <data key="d0">TMEM63C</data>
+  <data key="d1">["p6271", "p6270"]</data>
+  <data key="d2">["A0A024R6B3", "Q9P1W3"]</data>
+  <data key="d3">["TMEM63C"]</data>
+  <data key="d4">["calcium permeable stress-gated cation channel 1"]</data>
+  <data key="d5">["57156"]</data>
+  <data key="d7">TMEM63C</data>
+  <data key="d8">True</data>
+</node>
+<node id="PDE4DIP">
+  <data key="d0">PDE4DIP</data>
+  <data key="d1">["p17526", "p17527"]</data>
+  <data key="d2">["Q5VU43", "A0A075B749"]</data>
+  <data key="d3">["PDE4DIP"]</data>
+  <data key="d4">["myomegalin"]</data>
+  <data key="d5">["9659"]</data>
+  <data key="d6">["ENSG00000178104"]</data>
+  <data key="d7">PDE4DIP</data>
+  <data key="d8">False</data>
+</node>
+<node id="GDAP1">
+  <data key="d0">GDAP1</data>
+  <data key="d1">["p10662"]</data>
+  <data key="d2">["Q8TB36"]</data>
+  <data key="d3">["GDAP1"]</data>
+  <data key="d4">["ganglioside-induced differentiation-associated protein 1"]</data>
+  <data key="d5">["54332"]</data>
+  <data key="d6">["ENSG00000104381"]</data>
+  <data key="d7">GDAP1</data>
+  <data key="d8">False</data>
+</node>
+<node id="ERMP1">
+  <data key="d0">ERMP1</data>
+  <data key="d1">["p8852", "p8853"]</data>
+  <data key="d2">["Q7Z2K6", "A0A8I5KXJ0"]</data>
+  <data key="d3">["ERMP1"]</data>
+  <data key="d4">["endoplasmic reticulum metallopeptidase 1"]</data>
+  <data key="d5">["79956"]</data>
+  <data key="d6">["ENSG00000099219"]</data>
+  <data key="d7">ERMP1</data>
+  <data key="d8">False</data>
+</node>
+<node id="COPS5">
+  <data key="d0">COPS5</data>
+  <data key="d1">["p6332", "p6333"]</data>
+  <data key="d2">["A0A024R7W9", "Q92905"]</data>
+  <data key="d3">["COPS5"]</data>
+  <data key="d4">["COP9 signalosome complex subunit 5"]</data>
+  <data key="d5">["10987"]</data>
+  <data key="d6">["ENSG00000121022"]</data>
+  <data key="d7">COPS5</data>
+  <data key="d8">True</data>
+</node>
+<node id="BLCAP">
+  <data key="d0">BLCAP</data>
+  <data key="d1">["p2952"]</data>
+  <data key="d2">["P62952"]</data>
+  <data key="d3">["BLCAP"]</data>
+  <data key="d4">["bladder cancer-associated protein"]</data>
+  <data key="d5">["10904"]</data>
+  <data key="d6">["ENSG00000166619"]</data>
+  <data key="d7">BLCAP</data>
+  <data key="d8">True</data>
+</node>
+<node id="IFNGR2">
+  <data key="d0">IFNGR2</data>
+  <data key="d1">["p13156", "p13158", "p13157"]</data>
+  <data key="d2">["E7EUY1", "P38484", "A8K881"]</data>
+  <data key="d3">["IFNGR2"]</data>
+  <data key="d4">["interferon gamma receptor 2"]</data>
+  <data key="d5">["3460"]</data>
+  <data key="d6">["ENSG00000262795", "ENSG00000159128"]</data>
+  <data key="d7">IFNGR2</data>
+  <data key="d8">True</data>
+</node>
+<node id="RBFOX3">
+  <data key="d0">RBFOX3</data>
+  <data key="d1">["p23410"]</data>
+  <data key="d2">["A6NFN3"]</data>
+  <data key="d3">["RBFOX3"]</data>
+  <data key="d4">["RNA binding protein fox-1 homolog 3"]</data>
+  <data key="d5">["146713"]</data>
+  <data key="d6">["ENSG00000167281"]</data>
+  <data key="d7">RBFOX3</data>
+  <data key="d8">True</data>
+</node>
+<node id="TSC22D2">
+  <data key="d0">TSC22D2</data>
+  <data key="d1">["p27683", "p27682"]</data>
+  <data key="d2">["B4DN36", "O75157"]</data>
+  <data key="d3">["TSC22D2"]</data>
+  <data key="d4">["TSC22 domain family protein 2"]</data>
+  <data key="d5">["9819"]</data>
+  <data key="d6">["ENSG00000196428"]</data>
+  <data key="d7">TSC22D2</data>
+  <data key="d8">False</data>
+</node>
+<node id="AGPAT1">
+  <data key="d0">AGPAT1</data>
+  <data key="d1">["p21399", "p21400"]</data>
+  <data key="d2">["A0A024RCV5", "Q99943"]</data>
+  <data key="d3">["AGPAT1"]</data>
+  <data key="d4">["1-acyl-sn-glycerol-3-phosphate acyltransferase alpha"]</data>
+  <data key="d5">["10554"]</data>
+  <data key="d6">["ENSG00000228892", "ENSG00000235758", "ENSG00000236873", "ENSG00000227642", "ENSG00000206324", "ENSG00000204310", "ENSG00000226467"]</data>
+  <data key="d7">AGPAT1</data>
+  <data key="d8">True</data>
+</node>
+<edge source="RPS27A" target="RNF5">
+  <data key="d9">default</data>
+</edge>
+<edge source="RPS27A" target="MEPCE">
+  <data key="d9">default</data>
+</edge>
+<edge source="RPS27A" target="NMRAL1">
+  <data key="d9">default</data>
+</edge>
+<edge source="RPS27A" target="APP">
+  <data key="d9">default</data>
+</edge>
+<edge source="TXNL4B" target="HNRNPL">
+  <data key="d9">default</data>
+</edge>
+<edge source="ZCCHC2" target="VIRMA">
+  <data key="d9">default</data>
+</edge>
+<edge source="ZCCHC2" target="HNRNPH1">
+  <data key="d9">default</data>
+</edge>
+<edge source="LGR4" target="GPR21">
+  <data key="d9">default</data>
+</edge>
+<edge source="LGR4" target="SMC4">
+  <data key="d9">default</data>
+</edge>
+<edge source="GRWD1" target="SMC4">
+  <data key="d9">default</data>
+</edge>
+<edge source="GRWD1" target="PRKCZ">
+  <data key="d9">default</data>
+</edge>
+<edge source="GRWD1" target="METTL18">
+  <data key="d9">default</data>
+</edge>
+<edge source="MRPS18B" target="MEPCE">
+  <data key="d9">default</data>
+</edge>
+<edge source="MRPS18B" target="VWA8">
+  <data key="d9">default</data>
+</edge>
+<edge source="SMG7" target="ZDBF2">
+  <data key="d9">default</data>
+</edge>
+<edge source="SMG7" target="NCOA2">
+  <data key="d9">default</data>
+</edge>
+<edge source="APP" target="NNAT">
+  <data key="d9">default</data>
+</edge>
+<edge source="APP" target="ERH">
+  <data key="d9">default</data>
+</edge>
+<edge source="APP" target="ZNF331">
+  <data key="d9">default</data>
+</edge>
+<edge source="APP" target="PPP1R10">
+  <data key="d9">default</data>
+</edge>
+<edge source="APP" target="ZEB2">
+  <data key="d9">default</data>
+</edge>
+<edge source="APP" target="GABPA">
+  <data key="d9">default</data>
+</edge>
+<edge source="APP" target="LINGO1">
+  <data key="d9">default</data>
+</edge>
+<edge source="APP" target="KIAA0513">
+  <data key="d9">default</data>
+</edge>
+<edge source="APP" target="KCNAB2">
+  <data key="d9">default</data>
+</edge>
+<edge source="APP" target="OSBPL5">
+  <data key="d9">default</data>
+</edge>
+<edge source="APP" target="HOXC4">
+  <data key="d9">default</data>
+</edge>
+<edge source="APP" target="MICAL2">
+  <data key="d9">default</data>
+</edge>
+<edge source="APP" target="HOXC6">
+  <data key="d9">default</data>
+</edge>
+<edge source="APP" target="ATF6">
+  <data key="d9">default</data>
+</edge>
+<edge source="TAL1" target="TRIM27">
+  <data key="d9">default</data>
+</edge>
+<edge source="POLQ" target="OBSL1">
+  <data key="d9">default</data>
+</edge>
+<edge source="POLQ" target="VIRMA">
+  <data key="d9">default</data>
+</edge>
+<edge source="INTU" target="SMC4">
+  <data key="d9">default</data>
+</edge>
+<edge source="METTL18" target="B3GALT4">
+  <data key="d9">default</data>
+</edge>
+<edge source="ZEB2" target="FBXO38">
+  <data key="d9">default</data>
+</edge>
+<edge source="ZEB2" target="EHMT2">
+  <data key="d9">default</data>
+</edge>
+<edge source="FILIP1L" target="PLEC">
+  <data key="d9">default</data>
+</edge>
+<edge source="PLCB4" target="GRIN1">
+  <data key="d9">default</data>
+</edge>
+<edge source="PLCB4" target="HNRNPL">
+  <data key="d9">default</data>
+</edge>
+<edge source="MICAL2" target="VIRMA">
+  <data key="d9">default</data>
+</edge>
+<edge source="MICAL2" target="HNRNPL">
+  <data key="d9">default</data>
+</edge>
+<edge source="KIAA0586" target="VIRMA">
+  <data key="d9">default</data>
+</edge>
+<edge source="KIAA0586" target="TSC22D2">
+  <data key="d9">default</data>
+</edge>
+<edge source="KIAA0586" target="HECW2">
+  <data key="d9">default</data>
+</edge>
+<edge source="MRPS30" target="RBFOX3">
+  <data key="d9">default</data>
+</edge>
+<edge source="MRPS30" target="MEPCE">
+  <data key="d9">default</data>
+</edge>
+<edge source="MRPS30" target="VWA8">
+  <data key="d9">default</data>
+</edge>
+<edge source="MRPS30" target="RECQL4">
+  <data key="d9">default</data>
+</edge>
+<edge source="RECQL4" target="TBR1">
+  <data key="d9">default</data>
+</edge>
+<edge source="RECQL4" target="SART3">
+  <data key="d9">default</data>
+</edge>
+<edge source="RECQL4" target="RPP30">
+  <data key="d9">default</data>
+</edge>
+<edge source="ISCU" target="RNF123">
+  <data key="d9">default</data>
+</edge>
+<edge source="BBS4" target="FLOT1">
+  <data key="d9">default</data>
+</edge>
+<edge source="BBS4" target="ZIC1">
+  <data key="d9">default</data>
+</edge>
+<edge source="PM20D1" target="PDE4DIP">
+  <data key="d9">default</data>
+</edge>
+<edge source="GRM1" target="EPB41L2">
+  <data key="d9">default</data>
+</edge>
+<edge source="VWA8" target="NUDT12">
+  <data key="d9">default</data>
+</edge>
+<edge source="OSBP2" target="RNASEH2A">
+  <data key="d9">default</data>
+</edge>
+<edge source="OBSL1" target="CALML3">
+  <data key="d9">default</data>
+</edge>
+<edge source="OBSL1" target="PPP1R10">
+  <data key="d9">default</data>
+</edge>
+<edge source="OBSL1" target="AGPAT1">
+  <data key="d9">default</data>
+</edge>
+<edge source="CIDEB" target="HNRNPH1">
+  <data key="d9">default</data>
+</edge>
+<edge source="PON2" target="LINGO1">
+  <data key="d9">default</data>
+</edge>
+<edge source="PON2" target="ST8SIA4">
+  <data key="d9">default</data>
+</edge>
+<edge source="PON2" target="HTR2A">
+  <data key="d9">default</data>
+</edge>
+<edge source="CPNE1" target="PITPNM2">
+  <data key="d9">default</data>
+</edge>
+<edge source="KRT222" target="ICAM5">
+  <data key="d9">default</data>
+</edge>
+<edge source="PLEC" target="SMC4">
+  <data key="d9">default</data>
+</edge>
+<edge source="NLGN2" target="NRXN1">
+  <data key="d9">default</data>
+</edge>
+<edge source="NLGN2" target="ST8SIA4">
+  <data key="d9">default</data>
+</edge>
+<edge source="NMRAL1" target="TBR1">
+  <data key="d9">default</data>
+</edge>
+<edge source="RNF123" target="NUDT12">
+  <data key="d9">default</data>
+</edge>
+<edge source="RNF123" target="SMC4">
+  <data key="d9">default</data>
+</edge>
+<edge source="RNF123" target="ARID5B">
+  <data key="d9">default</data>
+</edge>
+<edge source="RNF123" target="GRIN1">
+  <data key="d9">default</data>
+</edge>
+<edge source="RNF123" target="TBR1">
+  <data key="d9">default</data>
+</edge>
+<edge source="RNF123" target="ERH">
+  <data key="d9">default</data>
+</edge>
+<edge source="ATP13A2" target="GPR21">
+  <data key="d9">default</data>
+</edge>
+<edge source="ATP13A2" target="NRXN1">
+  <data key="d9">default</data>
+</edge>
+<edge source="KIAA0513" target="VIRMA">
+  <data key="d9">default</data>
+</edge>
+<edge source="HNRNPH1" target="HOXC6">
+  <data key="d9">default</data>
+</edge>
+<edge source="HNRNPH1" target="HOXC4">
+  <data key="d9">default</data>
+</edge>
+<edge source="HNRNPH1" target="SGCE">
+  <data key="d9">default</data>
+</edge>
+<edge source="HNRNPH1" target="BLCAP">
+  <data key="d9">default</data>
+</edge>
+<edge source="FCGRT" target="SGCE">
+  <data key="d9">default</data>
+</edge>
+<edge source="FCGRT" target="NCAPD2">
+  <data key="d9">default</data>
+</edge>
+<edge source="ICAM5" target="TMEM132A">
+  <data key="d9">default</data>
+</edge>
+<edge source="ICAM5" target="RNASEH2A">
+  <data key="d9">default</data>
+</edge>
+<edge source="PITPNM2" target="HNRNPL">
+  <data key="d9">default</data>
+</edge>
+<edge source="HNRNPL" target="SGMS1">
+  <data key="d9">default</data>
+</edge>
+<edge source="HNRNPL" target="TMEM63C">
+  <data key="d9">default</data>
+</edge>
+<edge source="HNRNPL" target="ARID5B">
+  <data key="d9">default</data>
+</edge>
+<edge source="HNRNPL" target="ZNF331">
+  <data key="d9">default</data>
+</edge>
+<edge source="HNRNPL" target="NCOA2">
+  <data key="d9">default</data>
+</edge>
+<edge source="HNRNPL" target="HOXC4">
+  <data key="d9">default</data>
+</edge>
+<edge source="LINGO1" target="TRIM27">
+  <data key="d9">default</data>
+</edge>
+<edge source="NCOA2" target="VIRMA">
+  <data key="d9">default</data>
+</edge>
+<edge source="NCOA2" target="MEF2C">
+  <data key="d9">default</data>
+</edge>
+<edge source="CALML3" target="PDE4DIP">
+  <data key="d9">default</data>
+</edge>
+<edge source="CALML3" target="HECW2">
+  <data key="d9">default</data>
+</edge>
+<edge source="ARID5B" target="FBXO38">
+  <data key="d9">default</data>
+</edge>
+<edge source="ARID5B" target="EPB41L2">
+  <data key="d9">default</data>
+</edge>
+<edge source="ARID5B" target="VIRMA">
+  <data key="d9">default</data>
+</edge>
+<edge source="ARID5B" target="CCDC8">
+  <data key="d9">default</data>
+</edge>
+<edge source="RPP30" target="MEPCE">
+  <data key="d9">default</data>
+</edge>
+<edge source="NCAPD2" target="SMC4">
+  <data key="d9">default</data>
+</edge>
+<edge source="UFM1" target="TSC22D2">
+  <data key="d9">default</data>
+</edge>
+<edge source="SART3" target="MEPCE">
+  <data key="d9">default</data>
+</edge>
+<edge source="SART3" target="COPS5">
+  <data key="d9">default</data>
+</edge>
+<edge source="SMC4" target="LMBR1L">
+  <data key="d9">default</data>
+</edge>
+<edge source="SMC4" target="MEPCE">
+  <data key="d9">default</data>
+</edge>
+<edge source="SMC4" target="CCDC8">
+  <data key="d9">default</data>
+</edge>
+<edge source="MEF2C" target="COPS5">
+  <data key="d9">default</data>
+</edge>
+<edge source="HECW2" target="SCAPER">
+  <data key="d9">default</data>
+</edge>
+<edge source="ATF6" target="LMBR1L">
+  <data key="d9">default</data>
+</edge>
+<edge source="PPP2R2C" target="VIRMA">
+  <data key="d9">default</data>
+</edge>
+<edge source="MEPCE" target="ERH">
+  <data key="d9">default</data>
+</edge>
+<edge source="ZDBF2" target="VIRMA">
+  <data key="d9">default</data>
+</edge>
+<edge source="ST8SIA4" target="TMEM132A">
+  <data key="d9">default</data>
+</edge>
+<edge source="HOXC4" target="GDAP1">
+  <data key="d9">default</data>
+</edge>
+<edge source="HOXC4" target="LMO3">
+  <data key="d9">default</data>
+</edge>
+<edge source="FLOT1" target="COPS5">
+  <data key="d9">default</data>
+</edge>
+<edge source="DHX38" target="VIRMA">
+  <data key="d9">default</data>
+</edge>
+<edge source="TSPAN3" target="GPR21">
+  <data key="d9">default</data>
+</edge>
+<edge source="TSPAN3" target="PI4K2A">
+  <data key="d9">default</data>
+</edge>
+<edge source="SCAPER" target="VIRMA">
+  <data key="d9">default</data>
+</edge>
+<edge source="SCAPER" target="GDAP1">
+  <data key="d9">default</data>
+</edge>
+<edge source="TBR1" target="VIRMA">
+  <data key="d9">default</data>
+</edge>
+<edge source="PPP1R10" target="VIRMA">
+  <data key="d9">default</data>
+</edge>
+<edge source="GPR21" target="ERMP1">
+  <data key="d9">default</data>
+</edge>
+<edge source="VIRMA" target="AGPAT1">
+  <data key="d9">default</data>
+</edge>
+<edge source="FBXO38" target="ZNF331">
+  <data key="d9">default</data>
+</edge>
+<edge source="ATM" target="COPS5">
+  <data key="d9">default</data>
+</edge>
+<edge source="ERMP1" target="IFNGR2">
+  <data key="d9">default</data>
+</edge>
+</graph></graphml>
